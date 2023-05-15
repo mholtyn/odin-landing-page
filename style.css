@@ -95,3 +95,11 @@ button {
 .section-4-container-1 {
     background-color: #3882f6;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 15px;
+    font-size: 10px;
+}
