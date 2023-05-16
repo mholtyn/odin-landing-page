@@ -21,6 +21,7 @@ body {
     font-family: 'Hero';
 }
 
+/* SECTION 1 */
 .section-1 {
     background-color: #1f2937;
     display: flex;
@@ -106,6 +107,7 @@ button {
 
 }
 
+/* SECTION 2 */
 .section-2 {
     display: flex;
     flex-direction: column;
@@ -118,14 +120,41 @@ button {
     display: flex;
 }
 
+#section-2-heading {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.button-card {
+    border-style: solid;
+    border-color: #3882f6;
+    background-color: white;
+    border-width: 3px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* SECTION 3 */
 .section-3 {
     background-color: #E5E7EB;
 }
 
+
+/* SECTION 4 */
 .section-4-container-1 {
     background-color: #3882f6;
 }
 
+
+
+/* FOOTER */
 footer {
     background-color: #1f2937;
     color: #E5E7EB;
